@@ -71,3 +71,7 @@ Essas rotas existem tanto na versão Web quanto na Mobile, cada uma adaptada ao 
 A estrutura do projeto foi pensada para manter paralelismo entre as versões Web e Mobile.
 
 Cada plataforma utiliza seu sistema de navegação mais apropriado (React Router DOM para Web, React Navigation para Mobile).
+
+
+
+Link para o site: https://pratica-9-chi.vercel.app/
